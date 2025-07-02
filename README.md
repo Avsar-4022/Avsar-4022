@@ -21,7 +21,7 @@ I don't just write code. I engineer revolutions in every line. Mediocrity is a w
 ---
 
 ## Battle Scars
-- **Semester Project:** A relentless pursuit of hardware-software integration in Arduino. [GitHub Project](https://github.com/Avsar-4022/Arduino)
+- **Semester Project:** A relentless pursuit of hardware-software integration in Arduino. [GitHub Project](https://github.com/Avsar-4022/Air-Quality-Monitoring-System)
 
 ---
 
